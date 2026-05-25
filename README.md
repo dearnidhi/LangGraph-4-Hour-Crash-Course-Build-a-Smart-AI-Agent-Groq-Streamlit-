@@ -1,4 +1,11 @@
-# LangGraph Crash Course (5 Hours)
+🎥 Course Video
+
+👉 Watch the full crash course here:
+https://youtu.be/vUbMnAHWlKU
+
+
+
+# LangGraph Crash Course 
 
 This comprehensive 5-hour crash course covers LangGraph from basics to advanced concepts, culminating in a full "Smart Support Agent" project using the Groq API.
 
